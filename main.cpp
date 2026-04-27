@@ -4,6 +4,8 @@
 #include <cassert>
 #include <iostream>
 
+//Comentarios para confirmar que si se sube el proyecto a github, se puede hacer un pull request y mergear sin problemas.
+//Commit 1 "Lab3 Inicial commit"
 int main(int argc, char *argv[]){
 
     //Verify that the amount of arguments is correct
